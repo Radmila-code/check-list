@@ -1,3 +1,10 @@
+
+
+
+List of places in Canada that are worth visiting.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
