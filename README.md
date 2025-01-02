@@ -24,9 +24,9 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Radmila-code/mytodolist.git
+   git clone https://github.com/Radmila-code/check-list.git
 2. Navigate to the project directory:
-cd mytodolist
+cd check-list
 
 ## Usage
 You can open the index.html file in your web browser to view the project locally. All the images and styles are located in the appropriate directories.
