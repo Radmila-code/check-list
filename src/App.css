@@ -1,0 +1,72 @@
+body, html { 
+    height: 100%; 
+    margin: 0;
+}
+
+.bg-image { 
+    background-image: url('licensed-image.jpeg'); 
+    filter: blur(8px); /* Размытие фона */ 
+    -webkit-filter: blur(8px); /* Размытие фона для браузеров на основе WebKit */ 
+    height: 100%; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    position: fixed; 
+    width: 100%; 
+    z-index: -1; /* Перемещает фон на задний план */
+    font-family: "Comfortaa", serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    color: #EFF3EA;
+}
+  
+h1 {
+    letter-spacing: 2px;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-shadow: 0 0 5px #0077ff, 0 0 10px #0077ff, 0 0 15px #00ffff, 0 0 20px #00ffff, 0 0 25px #00ffff;
+    padding-top: 50px;
+    margin: 0;
+    text-decoration: underline;
+}
+  
+h2 {
+    padding-top: 30px;
+    font-size: 35px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #EFF3EA;
+    text-shadow: 0 0 5px black;
+}
+  
+.btn {
+    display: inline-block;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 50px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+    background-color: #0071c2;
+    align-self: center;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+  
+button {
+    background: white;
+    border: none;
+    font-size: 18px;
+    color: #0071c2
+}
+  
+p {
+    font-size: 25px;
+    padding: 30px 70px 30px 70px;
+    text-shadow: 0 0 5px black;
+}
