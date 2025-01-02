@@ -3,7 +3,7 @@
 <h3 align="center">Front-end developer, freelancer and student at the CanSheCode programming school.</h3>
 <br>
 
-<h2 align="center">Application name: "My to-do list!"</h2>
+<h2 align="center">Application name: "TOP 10 places in Canada worth visiting!"</h2>
 
 ## Table of Contents
 
